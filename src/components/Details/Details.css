@@ -1,0 +1,9 @@
+.toggleTrue {
+  background-color: black;
+  color: greenyellow;
+}
+
+.toggleFalse {
+  background-color: white;
+  color: red;
+}

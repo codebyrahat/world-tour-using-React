@@ -1,9 +1,11 @@
 import "./App.css";
+import Countries from "./components/Countries/Countries";
 
 function App() {
   return (
     <div>
-      <h2>Welcome to react world tour</h2>
+      <h2>Welcome To Learning Of React World!</h2>
+      <Countries></Countries>
     </div>
   );
 }
